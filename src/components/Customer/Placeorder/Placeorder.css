@@ -1,0 +1,28 @@
+.placeorderform {
+    position: relative;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .placeorderform .form-control {
+    width: 400px;
+  }
+  
+  .placeorderform > div {
+    padding: 70px;
+  }
+  #placeOrder,#updateOrder {
+    
+    position: absolute;
+    bottom: 20px;
+    right: 90px;
+  }
+  #selectThemeModel {
+    width: 400px;  
+  }
+  .placeorderform .form-check{
+      width: 400px;
+      
+    }
+  

@@ -1,0 +1,39 @@
+.themeslist {
+    position: relative;
+    width: 50%;
+    padding: 20px;
+    margin-right: 300px;
+    float: right;
+    overflow-y: auto;
+  }
+  
+  .themeslist .card {
+    background-color: rgba(232, 189, 132, 0.142);
+  }
+  
+  .addtheme {
+    padding: 30px;
+    width: 30%;
+    position: fixed;
+    top: 20%;
+    right: 5%;
+    
+    background-color: rgb(190, 216, 217);
+    border-radius: 20px;
+   
+    overflow-y: auto;
+  }
+  
+  .editdelete {
+    position: relative;
+    float: right;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .themes {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+  }
+  

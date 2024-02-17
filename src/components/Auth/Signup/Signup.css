@@ -1,0 +1,21 @@
+.Signup{
+  top : 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  padding: 20px;
+  background-image: url('https://img.freepik.com/free-vector/seamless-white-interlaced-rounded-arc-patterned-background_53876-97975.jpg?size=626&ext=jpg&ga=GA1.1.726690469.1688023362&semt=ais');
+  background-size: 100% 100%;
+}
+
+#signinLink{
+  text-decoration: none;
+    font-weight: bold;
+    padding: 0px 5px;
+}
+.SignupForm {
+  background-color: #d9d9d900;
+  padding: 20px 40px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}

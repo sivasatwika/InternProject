@@ -1,0 +1,24 @@
+.Review{
+    margin: 0;
+    padding: 10px;
+  }
+  .Review        .table{
+      border-radius: 10px;
+    overflow: hidden;
+  }
+  
+.ReviewTable thead {
+  background-color:  rgb(40,115,115); ;
+  margin: 0px 10px;
+  
+}
+
+.ReviewTable{
+  margin: 10px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(190, 216, 217);
+}

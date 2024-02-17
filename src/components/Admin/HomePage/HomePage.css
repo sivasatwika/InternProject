@@ -1,0 +1,50 @@
+.giftstable{
+    width: 60%;
+    margin:20px 20px;
+    flex: 1;
+    overflow: hidden;
+    border-radius: 10px;
+}
+#giftstable .table{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.giftstable thead {
+        background-color: rgb(40,115,115);
+        margin: 0px 10px;
+        
+    }
+     .gift {
+        background-color: rgb(190, 216, 217);
+        margin: 20px;
+        padding: 30px;
+      }
+      
+
+.addgifts{
+    width : 30%;
+    padding: 20px 20px;
+    top: 7pc;
+    height: 75vh;
+    position: sticky;
+    overflow-y: auto;
+    background-color: rgb(190,216,217);
+    border-radius: 20px;
+}
+
+.gifts{
+    position: relative;
+    display: flex;
+    margin: 10px;
+    padding: 20px ;
+    background-color: rgb(186,186,186);
+    border-radius: 10px;
+   
+}
+#addGiftButton{
+    background-color:rgb(40,115,115);
+    margin : 2px 120px
+}
+.editgiftform{
+    color: rgb(190,216,217);
+}

@@ -1,0 +1,26 @@
+#gridOrderBody .table{
+    border-radius: 10px;
+  overflow: hidden;
+}
+
+#gridOrderBody{
+    margin: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(190, 216, 217);
+
+}
+#gridOrderBody thead {
+    color: white;
+    background-color: rgb(0, 0, 0);    
+}
+
+#payButton{
+position: absolute;
+bottom: 20px;
+right: 90px;
+width: 100px;
+}
